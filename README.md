@@ -4,9 +4,9 @@
 
 ## Student Information
 
-- **Student ID:** [Student ID]
-- **First Name:** [First Name]
-- **Course:** [Course Name]
+- **Student ID:** 20251SEN160
+- **First Name:** SANO GERVAIS
+- **Course:** PL AND SQL
 - **Database:** Oracle Database 21c
 
 ---
@@ -32,11 +32,11 @@ The main tasks completed were:
 The assignment was completed using:
 
 - **Database:** Oracle Database 21c
-- **Operating System:** [Windows/Linux]
-- **Oracle Tool:** SQL*Plus / SQL Developer
+- **Operating System:** Windows
+- **Oracle Tool:** SQL*Plus 
 - **Oracle Enterprise Manager:** OEM
-- **Container Database (CDB):** [CDB Name]
-- **PDB:** [PDB Name]
+- **Container Database (CDB):** CDB$ROOT
+- **PDB:** SA_PDB_20251SEN160
 
 ---
 
@@ -57,7 +57,7 @@ A new Pluggable Database was created from the CDB root using the `CREATE PLUGGAB
 
 The screenshots demonstrating PDB creation are available in:
 
-`screenshots/pdb_creation/`
+[SCREEN OF TASK1: PDB creation command, PDB open state, User created inside PDB (username clearly visible)](https://github.com/Gervaissano/oracle_pdb_ass_II_-SANO-GERVAIS-_-20251SEN160-/blob/test-1/CREATING%20OF%20PDB%20AND%20USER_NAME%20INSIDE%20PDB.PNG)
 
 ---
 
