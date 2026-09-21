@@ -122,18 +122,11 @@ Use clear names instead of names such as `Screenshot1.png`:
 ```text
 screenshots/
 ├── pdb_creation/
-│   ├── 01_cdb_root.png
-│   ├── 02_create_pdb.png
-│   ├── 03_pdb_created.png
-│   ├── 04_pdb_read_write.png
-│   └── 05_pdb_save_state.png
+│   ├── CREATING OF PDB AND USER_NAME INSIDE PDB.PNG
 │
 ├── pdb_deletion/
-│   ├── 01_pdb_before_deletion.png
-│   ├── 02_drop_pdb.png
-│   └── 03_pdb_deleted.png
+│   ├── Task2.png
 │
 └── oem_dashboard/
-    ├── 01_oem_login.png
-    ├── 02_oem_dashboard.png
-    └── 03_oem_pdb_monitoring.png
+    ├── TASK3.PNG
+    ├── TASK3 show(Created PDB dashboard).png
