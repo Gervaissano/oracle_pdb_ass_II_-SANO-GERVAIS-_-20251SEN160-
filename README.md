@@ -117,8 +117,6 @@ FROM V$PDBS;
 
 ### Recommended screenshot names
 
-Use clear names instead of names such as `Screenshot1.png`:
-
 ```text
 screenshots/
 ├── pdb_creation/
