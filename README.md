@@ -79,7 +79,7 @@ The PDB was verified before deletion and then completely removed from the Oracle
 
 The screenshots demonstrating PDB deletion are available in:
 
-`screenshots/pdb_deletion/`
+[TASK 2 SCREEN OF DROPPING OF PDB_DELETION](Task2.png)
 
 ---
 
