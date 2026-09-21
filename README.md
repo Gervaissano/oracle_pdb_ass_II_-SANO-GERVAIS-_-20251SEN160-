@@ -93,7 +93,8 @@ The dashboard provides information about the database environment and allows dat
 
 The OEM screenshots are available in:
 
-[TASK 3 screenshots/oem_dashboard/](TASK3.PNG)
+[TASK 3 screenshots/oem_dashboard/](TASK3.PNG) <br>
+[Task3 Screenshoot indicate the full dashboard of pdb created](https://github.com/Gervaissano/oracle_pdb_ass_II_-SANO-GERVAIS-_-20251SEN160-/blob/test-1/TASK3%20show(Created%20PDB%20dashboard).png)
 
 
 ## 6. Challenges Faced and Solutions
