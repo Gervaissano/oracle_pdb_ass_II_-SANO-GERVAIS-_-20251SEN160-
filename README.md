@@ -93,9 +93,8 @@ The dashboard provides information about the database environment and allows dat
 
 The OEM screenshots are available in:
 
-`screenshots/oem_dashboard/`
+[TASK 3 screenshots/oem_dashboard/](TASK3.PNG)
 
----
 
 ## 6. Challenges Faced and Solutions
 
